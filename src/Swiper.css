@@ -1,0 +1,8 @@
+.swiper {
+    width: 900px;
+    height: 800px !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 200%;
+}
